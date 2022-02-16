@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player2
+comment1.params=
+comment1.target=Player2()
+comment2.params=
+comment2.target=void\ increaseBombs()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ placeBombs()
+comment5.params=
+comment5.target=void\ dead()
+comment6.params=
+comment6.target=void\ checkCollisionWithFire()
+numComments=7

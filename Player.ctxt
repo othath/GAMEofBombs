@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=void\ placeBombs()
+comment2.params=
+comment2.target=void\ dead()
+comment3.params=x\ y\ cls
+comment3.target=boolean\ checkCollisions(int,\ int,\ java.lang.Class)
+comment4.params=UpKey\ DownKey\ RightKey\ LeftKey\ imgUp\ imgDown\ imgRight\ imgLeft
+comment4.target=void\ checkMovements(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=5

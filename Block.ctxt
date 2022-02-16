@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=x\ y\ cls
+comment1.target=boolean\ checkCollisions(int,\ int,\ java.lang.Class)
+numComments=2
